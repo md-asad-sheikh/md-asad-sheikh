@@ -9,7 +9,7 @@
 - 🌱 Learning advanced **distributed systems** and **Linux server security**.  
 - 💬 Ask me about **Node.js, Express, MongoDB, Kafka, Redis, WebSocket, and Nginx**.  
 - 🧩 I enjoy solving **scalability and performance** challenges.  
-- 📫 Reach me at **asad@example.com** *(replace with your email)*  
+- 📫 Reach me at **mdasad.sheikh.diu@gmail.com**
 
 ---
 
