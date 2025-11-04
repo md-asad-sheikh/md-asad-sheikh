@@ -57,13 +57,13 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/md-asad-sheikh-sujat-6b7998157/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://facebook.com/yourprofile" target="_blank">
+<a href="https://www.facebook.com/mdasadask" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="facebook"/>
 </a>
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/md-asad-sheikh" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="github"/>
 </a>
 </p>
